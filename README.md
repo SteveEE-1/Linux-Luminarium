@@ -32,6 +32,6 @@ Command Arguments: Get comfortable with passing arguments to commands and using 
 
 Introductory Challenges: Start with basic command invocation and build up to more advanced usage
 
-    .
+
 
 Each section includes real-world examples, step-by-step solutions, and explanations to reinforce learning. This collection is ideal for anyone looking to strengthen their Linux fundamentals through practical, challenge-driven learning.
